@@ -1,2 +1,2 @@
-# Fireman.simulator
-A simulator prevent of fireman control
+# irc.client 
+a easy and simply irc client
